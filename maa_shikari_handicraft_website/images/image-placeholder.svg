@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#e8deca"/><rect x="28" y="28" width="844" height="594" fill="none" stroke="#b9964c" stroke-width="3"/>
+<path d="M28 100h844M28 550h844" stroke="#9e3d2e" stroke-width="10" stroke-dasharray="28 12"/>
+<g fill="#4b5e4d"><path d="M100 450l120-180 100 180z"/><path d="M290 450l150-250 140 250z"/><path d="M550 450l100-150 120 150z"/></g>
+<text x="450" y="500" font-family="Georgia,serif" font-size="32" text-anchor="middle" fill="#29251d">Add Your Product Photo</text>
+<text x="450" y="535" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#756e62">Maa Shikari Handicraft Handloom</text>
+</svg>
